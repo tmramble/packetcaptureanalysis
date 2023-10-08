@@ -6,7 +6,7 @@ A computer at the company has been flagged for suspicious activity. In this tuto
 
 <h2>Video Demonstration</h2>
 
- ### [YouTube: Install, Explanation and Project Walkthrough](https://www.youtube.com/watch?v=WjkpAnz9OWU)
+ ### [YouTube: Install, Explanation and Project Walkthrough](https://youtu.be/7vmLFCQRhJU?si=F3UuEHjQ3XDQW4-S)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,4 +17,3 @@ A computer at the company has been flagged for suspicious activity. In this tuto
 
 <h2>List of Prerequisites</h2>
 
-- Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
