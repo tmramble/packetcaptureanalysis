@@ -12,8 +12,6 @@ A computer at the company has been flagged for suspicious activity. In this tuto
 
 - Wireshark
 - HEX Editor
+- Paint 
 
--Paint 
-
-<h2>List of Prerequisites</h2>
 
