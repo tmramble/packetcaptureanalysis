@@ -6,7 +6,7 @@ A computer at the company has been flagged for suspicious activity. In this tuto
 
 <h2>Video Demonstration</h2>
 
- ### [YouTube: Install, Explanation and Project Walkthrough](https://youtu.be/7vmLFCQRhJU?si=F3UuEHjQ3XDQW4-S)
+ ### [YouTube: Install, Explanation and Project Walkthrough](https://youtu.be/7vmLFCQRhJU?si=mBUHSrzYgDBE2NSI)
 
 <h2>Environments and Technologies Used</h2>
 
